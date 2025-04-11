@@ -1,0 +1,29 @@
+{
+  "common": { "titlePage": "Bem-vindo ao Pokedex!"},
+
+  "filter": {
+
+    "name": "Filtrar por nome",
+    "id": "Filtrar por ID",
+    "type": "Filtrar por tipo",
+    "species": "Filtrar por espécie"
+  },
+
+  "loading": "Carregando...",
+
+  "pokemon": {
+
+    "id": "#{id}",
+    "types": "Tipo(s): {types}",
+    "species": "Espécie: {species}"
+  },
+  
+  "modal": {
+    
+    "sprites": "Sprites",
+    "evolutions": "Evoluções",
+    "moves": "Movimentos",
+    "games": "Games"
+  }
+}
+  
